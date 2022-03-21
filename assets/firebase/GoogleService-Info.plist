@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.858363910937-m2363g24muq3ths7i1jmlijt2hlust24</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApW1WKmEhYlNumyXS3DHVzKPl1deCQCQc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>858363910937</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>nl.rotterdam.meldraccp</string>
+	<key>PROJECT_ID</key>
+	<string>mendix-meldr-rotterdam-n-fc9d3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>mendix-meldr-rotterdam-n-fc9d3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:858363910937:ios:df226ff6effaa99866c388</string>
+</dict>
+</plist>

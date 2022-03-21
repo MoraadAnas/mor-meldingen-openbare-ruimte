@@ -1,0 +1,118 @@
+{
+  "project_info": {
+    "project_number": "858363910937",
+    "project_id": "mendix-meldr-rotterdam-n-fc9d3",
+    "storage_bucket": "mendix-meldr-rotterdam-n-fc9d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858363910937:android:ff05edee6030d69666c388",
+        "android_client_info": {
+          "package_name": "nl.rotterdam.meldr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhfHeeqtEoG76LV2Q5jqS46rBG5s1eJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.rotterdam.meldraccp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858363910937:android:9b98592e7df57d3c66c388",
+        "android_client_info": {
+          "package_name": "nl.rotterdam.meldraccp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhfHeeqtEoG76LV2Q5jqS46rBG5s1eJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.rotterdam.meldraccp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:858363910937:android:59d120e43e69876666c388",
+        "android_client_info": {
+          "package_name": "nl.rotterdam.meldraccp.developerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEhfHeeqtEoG76LV2Q5jqS46rBG5s1eJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "858363910937-1i3re906sbr8u1g135jnoqs9oeljdthv.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "nl.rotterdam.meldraccp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
