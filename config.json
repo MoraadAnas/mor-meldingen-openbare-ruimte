@@ -1,0 +1,141 @@
+{
+    "configVersion": 2,
+    "appIdentifier": "nl.rotterdam.meldraccp",
+    "appName": "MOR - Meldingen Openbare Ruimte",
+    "bundleName": {
+        "main": "MORMeldingenOpe",
+        "dev": "MORMeldingenDev"
+    },
+    "deviceTarget": {
+        "phone": true,
+        "tablet": false
+    },
+    "orientation": {
+        "portrait": true,
+        "landscape": false
+    },
+    "permissions": [
+        {
+            "title": "Internet",
+            "name": "android.permission.INTERNET",
+            "platform": "android",
+            "required": true
+        },
+        {
+            "title": "Read External Storage",
+            "name": "android.permission.READ_EXTERNAL_STORAGE",
+            "platform": "android",
+            "required": true
+        },
+        {
+            "title": "System Alert Window",
+            "name": "android.permission.SYSTEM_ALERT_WINDOW",
+            "platform": "android",
+            "required": true
+        },
+        {
+            "title": "Write External Storage",
+            "name": "android.permission.WRITE_EXTERNAL_STORAGE",
+            "platform": "android",
+            "required": true
+        },
+        {
+            "title": "Location - Always Usage",
+            "name": "NSLocationAlwaysUsageDescription",
+            "purpose": "To use that feature, the app needs access to your location.",
+            "platform": "ios",
+            "required": true
+        },
+        {
+            "title": "Location - When In Use Usage",
+            "name": "NSLocationWhenInUseUsageDescription",
+            "purpose": "To use that feature, the app needs access to your location.",
+            "platform": "ios",
+            "required": true
+        },
+        {
+            "title": "Location - Always And When in Use Usage",
+            "name": "NSLocationAlwaysAndWhenInUseUsageDescription",
+            "purpose": "To use that feature, the app needs access to your location.",
+            "platform": "ios",
+            "required": true
+        },
+        {
+            "title": "Fine Location",
+            "name": "android.permission.ACCESS_FINE_LOCATION",
+            "platform": "android",
+            "required": false
+        },
+        {
+            "title": "Coarse Location",
+            "name": "android.permission.ACCESS_COARSE_LOCATION",
+            "platform": "android",
+            "required": false
+        },
+        {
+            "title": "Camera",
+            "name": "android.permission.CAMERA",
+            "platform": "android",
+            "required": false
+        },
+        {
+            "title": "Photo Library Usage",
+            "name": "NSPhotoLibraryUsageDescription",
+            "purpose": "Met toegang tot de bibliotheek kunt u een eerder gemaakte foto toevoegen aan een melding.",
+            "platform": "ios",
+            "required": false
+        },
+        {
+            "title": "Camera Usage",
+            "name": "NSCameraUsageDescription",
+            "purpose": "Met de camera kunt u een foto maken bij een melding, zodat de melding duidelijker is.",
+            "platform": "ios",
+            "required": false
+        }
+    ],
+    "capabilities": {
+        "deepLink": {
+            "value": "",
+            "enabled": false,
+            "android": {
+                "webLinks": [
+                    {
+                        "host": "",
+                        "path": ""
+                    }
+                ]
+            }
+        },
+        "maps": {
+            "value": "AIzaSyDRdRl_YkBlFjkTiuquZ5eybHvKyg8M3pY",
+            "enabled": true
+        },
+        "mapsIos": {
+            "enabled": false
+        },
+        "pushNotifications": {
+            "enabled": true
+        },
+        "crashlytics": {
+            "enabled": true
+        },
+        "firebaseAndroid": {
+            "enabled": true
+        },
+        "firebaseIos": {
+            "enabled": true
+        },
+        "localNotifications": {
+            "enabled": true
+        },
+        "appCenterOTA": {
+            "enabled": false
+        },
+        "nativeOTA": {
+            "enabled": false
+        }
+    },
+    "appVersion": "1.0.0",
+    "buildNumber": 50,
+    "runtimeUrl": "https://mor-accp.mendixcloud.com"
+}
