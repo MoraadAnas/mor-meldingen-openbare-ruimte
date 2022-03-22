@@ -13,7 +13,7 @@
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
-	<string>nl.rotterdam.meldraccp</string>
+	<string>nl.rotterdam.meldrtest</string>
 	<key>PROJECT_ID</key>
 	<string>mendix-meldr-rotterdam-n-fc9d3</string>
 	<key>STORAGE_BUCKET</key>

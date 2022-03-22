@@ -34,7 +34,7 @@
               "client_id": "858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "nl.rotterdam.meldraccp"
+                "bundle_id": "nl.rotterdam.meldrtest"
               }
             }
           ]
@@ -45,7 +45,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:858363910937:android:9b98592e7df57d3c66c388",
         "android_client_info": {
-          "package_name": "nl.rotterdam.meldraccp"
+          "package_name": "nl.rotterdam.meldrtest"
         }
       },
       "oauth_client": [
@@ -70,7 +70,7 @@
               "client_id": "858363910937-m2363g24muq3ths7i1jmlijt2hlust24.apps.googleusercontent.com",
               "client_type": 2,
               "ios_info": {
-                "bundle_id": "nl.rotterdam.meldraccp"
+                "bundle_id": "nl.rotterdam.meldrtest"
               }
             }
           ]
@@ -81,7 +81,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:858363910937:android:59d120e43e69876666c388",
         "android_client_info": {
-          "package_name": "nl.rotterdam.meldraccp.developerapp"
+          "package_name": "nl.rotterdam.meldrtest.developerapp"
         }
       },
       "oauth_client": [
