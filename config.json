@@ -1,6 +1,6 @@
 {
     "configVersion": 2,
-    "appIdentifier": "nl.rotterdam.meldraccp",
+    "appIdentifier": "nl.rotterdam.meldrtest",
     "appName": "MOR - Meldingen Openbare Ruimte",
     "bundleName": {
         "main": "MORMeldingenOpe",
@@ -77,20 +77,6 @@
             "name": "android.permission.CAMERA",
             "platform": "android",
             "required": false
-        },
-        {
-            "title": "Photo Library Usage",
-            "name": "NSPhotoLibraryUsageDescription",
-            "purpose": "Met toegang tot de bibliotheek kunt u een eerder gemaakte foto toevoegen aan een melding.",
-            "platform": "ios",
-            "required": false
-        },
-        {
-            "title": "Camera Usage",
-            "name": "NSCameraUsageDescription",
-            "purpose": "Met de camera kunt u een foto maken bij een melding, zodat de melding duidelijker is.",
-            "platform": "ios",
-            "required": false
         }
     ],
     "capabilities": {
@@ -117,7 +103,7 @@
             "enabled": true
         },
         "crashlytics": {
-            "enabled": true
+            "enabled": false
         },
         "firebaseAndroid": {
             "enabled": true
@@ -136,6 +122,6 @@
         }
     },
     "appVersion": "1.0.0",
-    "buildNumber": 50,
-    "runtimeUrl": "https://mor-accp.mendixcloud.com"
+    "buildNumber": 43,
+    "runtimeUrl": "https://mor-test.mendixcloud.com/"
 }
